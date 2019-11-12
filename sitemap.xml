@@ -58,7 +58,14 @@
   </url>
   
   <url>
-    <loc>https://xwxwx.github.io/tags/index.html</loc>
+    <loc>https://xwxwx.github.io/weblog/index.html</loc>
+    
+    <lastmod>2019-10-08T14:57:29.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xwxwx.github.io/about/index.html</loc>
     
     <lastmod>2019-10-08T14:57:29.000Z</lastmod>
     
@@ -86,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://xwxwx.github.io/about/index.html</loc>
-    
-    <lastmod>2019-10-08T14:57:29.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xwxwx.github.io/404.html</loc>
     
     <lastmod>2019-10-08T14:57:29.000Z</lastmod>
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://xwxwx.github.io/weblog/index.html</loc>
+    <loc>https://xwxwx.github.io/tags/index.html</loc>
     
     <lastmod>2019-10-08T14:57:29.000Z</lastmod>
     
